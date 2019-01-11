@@ -1,8 +1,8 @@
-/root/git/1/calc/src/main/java/Calc.java
-/root/git/1/calc/target/generated-sources/antlr4/main/antlr/ExprBaseVisitor.java
-/root/git/1/calc/target/generated-sources/antlr4/main/antlr/ExprLexer.java
-/root/git/1/calc/target/generated-sources/antlr4/main/antlr/ExprVisitor.java
-/root/git/1/calc/target/generated-sources/antlr4/main/antlr/ExprBaseListener.java
-/root/git/1/calc/src/main/java/CalcEvalVisitor.java
-/root/git/1/calc/target/generated-sources/antlr4/main/antlr/ExprListener.java
-/root/git/1/calc/target/generated-sources/antlr4/main/antlr/ExprParser.java
+/root/git/1/target/generated-sources/antlr4/main/antlr/ExprVisitor.java
+/root/git/1/target/generated-sources/antlr4/main/antlr/ExprBaseListener.java
+/root/git/1/src/main/java/CalcEvalVisitor.java
+/root/git/1/target/generated-sources/antlr4/main/antlr/ExprParser.java
+/root/git/1/target/generated-sources/antlr4/main/antlr/ExprBaseVisitor.java
+/root/git/1/target/generated-sources/antlr4/main/antlr/ExprListener.java
+/root/git/1/target/generated-sources/antlr4/main/antlr/ExprLexer.java
+/root/git/1/src/main/java/Calc.java
