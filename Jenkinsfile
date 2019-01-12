@@ -13,7 +13,7 @@ pipeline {
     }
     stage('Prepare release'){
         steps{
-            sh 'mvn rpm:rpm'
+            sh 'mvn clean rpm:rpm'
         }
     }
   }
