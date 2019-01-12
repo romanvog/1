@@ -1,9 +1,9 @@
 pipeline {
   agent { label 'calc_test' }
   stages{
-    stage('update and install'){
+    stage('Build'){
         steps{
-            sh 'pwd && ls'
+            sh 'mvn install'
         }
     }
   }
