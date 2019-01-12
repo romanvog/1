@@ -11,5 +11,10 @@ pipeline {
             sh 'mvn test'
         }
     }
+    stage('Prepare release'){
+        steps{
+            sh 'mvn release:prepare'
+        }
+    }
   }
 }
