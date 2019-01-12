@@ -3,7 +3,7 @@ pipeline {
   stages{
     stage('update and install'){
         steps{
-            sh 'pwd'
+            sh 'pwd && ls'
         }
     }
   }
